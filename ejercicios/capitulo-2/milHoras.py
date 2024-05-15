@@ -26,7 +26,6 @@ def PerroaHumano():
          print(str(perriYears) + ' anios perrunos es equivalente a alrededor de 2 anios humanos')
     else:
         humanYear = -13/4 + perriYears/4
-
         print(str(perriYears) + ' anios perrunos son equivalentes a ' + str(humanYear) + ' anios humanos')
 
 print('si quiere calcular la edad de un perro a un humano ingrese una P, si quiere calcular la edad de humano a perro ingrese H: ')
